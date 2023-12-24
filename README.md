@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoshishi
-- 👀 I’m interested in Bioinformatics and UX
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Genomics
+- 🌱 I’m currently learning Python
 - 💞️ I’m not looking to collaborate on anything at the moment
 - 📫 How to reach me: https://www.linkedin.com/in/giovanna-teixeira-tuchinski/
 
