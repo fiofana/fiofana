@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hoshishi
+- 👋 Hi, I’m @fiofana
 - 👀 I’m interested in Genomics
 - 🌱 I’m currently learning Python
-- 💞️ I’m not looking to collaborate on anything at the moment
+- 💞️ I’m looking to collaborate on my first projext at the moment
 - 📫 How to reach me: https://www.linkedin.com/in/giovanna-teixeira-tuchinski/
 
 <!---
