@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fiofana
-- 👀 I’m interested in Genomics
+- 👋 Hi, I’m Giovanna Teixeira Tuchinski
+- 👀 I’m interested in Sustainability, Data and Bioinformatics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on my first projext at the moment
+- 💞️ I’m currently doing some projects to learn Data Science skills
 - 📫 How to reach me: https://www.linkedin.com/in/giovanna-teixeira-tuchinski/
 
 <!---
